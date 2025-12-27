@@ -54,55 +54,132 @@ Furthermore, during the application of the TOPSIS multi-criteria decision-making
 Let’s dive into the visualizations and explore the main insights.
 
 
+
 ## Results Overview
 
-### 1. Regional Analysis of Median Rents
+---
 
-
+### 1. Regional Analysis of Median Rental Prices
 
 <p align="center">
   <img src="src/Median%20Rent%20Map%20by%20Region%20Morocco.jpg" width="700">
 </p>
-- Highlighting **regional disparities** in rental prices  
-- Higher rents observed in regions that are:
-  - highly urbanized
-  - economically dynamic  
-- Key indicator: **rental demand pressure**
+
+- Mise en évidence de **fortes disparités régionales** des loyers médians  
+- Loyers plus élevés dans les régions :
+  - fortement urbanisées  
+  - économiquement dynamiques  
+- Indicateur clé : **pression de la demande locative**
 
 ---
+
+### 2. Ranking of Major Cities by Average Rent
+
 <p align="center">
   <img src="src/City%20Ranking%20by%20Average%20Rent%20Morocco.jpg" width="700">
 </p>
+
+- Comparaison des principales villes marocaines selon le prix moyen de location  
+- Domination des villes :
+  - côtières  
+  - administratives  
+  - à forte attractivité touristique  
+- **Choix méthodologique** :
+  - exclusion des villes avec très peu d’annonces  
+  - objectif : garantir la **fiabilité statistique** et la comparabilité  
+
+---
+
+### 3. Overall Distribution of Rental Prices
 
 <p align="center">
   <img src="src/Rental%20Price%20Distribution%20Morocco.jpg" width="700">
 </p>
 
+- Marché dominé par des **loyers intermédiaires**  
+- Présence limitée d’un segment **haut de gamme**  
+- Distribution asymétrique (queue à droite), justifiant :
+  - l’usage de la **médiane** plutôt que la moyenne  
+  - une meilleure robustesse face aux valeurs extrêmes  
+
+---
+
+### 4. Geographic Concentration of Rental Listings
+
 <p align="center">
   <img src="src/Rental%20Listings%20Concentration%20by%20Region.jpg" width="700">
 </p>
+
+- Identification des régions à **forte densité d’annonces locatives**  
+- Corrélation marquée avec :
+  - l’attractivité économique  
+  - le dynamisme touristique  
+- Indicateur clé : **intensité du marché locatif**
+
+---
+
+### 5. Rental Price Variability Across Regions
 
 <p align="center">
   <img src="src/Rental%20Price%20Variability%20by%20Region.jpg" width="700">
 </p>
 
+- Analyse de la **dispersion des loyers** par région  
+- Forte variabilité observée dans :
+  - les régions touristiques  
+  - les marchés mixtes (résidentiel + touristique)  
+- Indicateur clé : **instabilité et volatilité des prix**
+
+---
+
+### 6. Spatial Structure of Rental Prices in Marrakech
+
 <p align="center">
   <img src="src/Marrakech%20Median%20Rent%20Spatial%20Distribution.jpg" width="700">
 </p>
+
+- Forte **hétérogénéité intra-urbaine** des loyers  
+- Loyers plus élevés dans :
+  - les zones centrales  
+  - les quartiers à vocation touristique  
+- Mise en évidence d’une **segmentation spatiale claire** du marché urbain  
+
+---
+
+### 7. Ranking of Marrakech Districts by Average Rent
 
 <p align="center">
   <img src="src/Average%20Rent%20by%20District%20Marrakech.jpg" width="700">
 </p>
 
+- Hiérarchisation des quartiers selon le prix moyen de location  
+- Facteurs explicatifs principaux :
+  - localisation  
+  - accessibilité  
+  - standing urbain  
+- **Choix méthodologique** :
+  - exclusion des quartiers avec un nombre très faible d’annonces  
+  - objectif : résultats **représentatifs et robustes**
+
+---
+
+### 8. Tourist City Ranking Using the TOPSIS Method
+
 <p align="center">
   <img src="src/TOPSIS%20Tourism%20City%20Ranking%20Morocco.jpg" width="700">
 </p>
 
-
-
-
-
-
+- Approche **multicritère** intégrant :
+  - prix de location  
+  - nuitées touristiques  
+  - taux d’occupation  
+- Méthode appliquée : **TOPSIS**
+  - comparaison à une solution idéale et anti-idéale  
+- Résultats :
+  - identification des villes offrant le **meilleur compromis**  
+- Validation :
+  - tests de sensibilité sur les pondérations  
+  - classement stable → **robustesse confirmée**
 
 
 

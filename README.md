@@ -168,7 +168,7 @@ Let’s dive into the visualizations and explore the main insights.
 
 ## II. Multi-Criteria Decision-Making Analysis (TOPSIS)
 
-### 8. Tourist City Ranking Using the TOPSIS Method
+###  Tourist City Ranking Using the TOPSIS Method
 
 <p align="center">
   <img src="src/TOPSIS%20Tourism%20City%20Ranking%20Morocco.jpg" width="700">

@@ -6,6 +6,9 @@
 > **Date:** 27/12/2025
 
 
+Do not hesitate to contact me through my LinkedIn profile  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salah-eddine-yousfi-b2532a375/)
 
 
 

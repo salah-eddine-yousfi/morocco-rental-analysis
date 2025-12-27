@@ -59,34 +59,39 @@ Let’s dive into the visualizations and explore the main insights.
 
 ---
 
+## I. Exploratory Analysis and Data Visualization  
+
+
+---
+
 ### 1. Regional Analysis of Median Rental Prices
 
 <p align="center">
   <img src="src/Median%20Rent%20Map%20by%20Region%20Morocco.jpg" width="700">
 </p>
 
-- Mise en évidence de **fortes disparités régionales** des loyers médians  
-- Loyers plus élevés dans les régions :
-  - fortement urbanisées  
-  - économiquement dynamiques  
-- Indicateur clé : **pression de la demande locative**
+- Highlights **regional disparities** in median rental prices  
+- Higher rents observed in regions that are:
+  - highly urbanized  
+  - economically dynamic  
+- Key indicator: **rental demand pressure**
 
 ---
 
-### 2. Ranking of Major Cities by Average Rent
+### 2. Ranking of Major Cities by Average Rental Price
 
 <p align="center">
   <img src="src/City%20Ranking%20by%20Average%20Rent%20Morocco.jpg" width="700">
 </p>
 
-- Comparaison des principales villes marocaines selon le prix moyen de location  
-- Domination des villes :
-  - côtières  
-  - administratives  
-  - à forte attractivité touristique  
-- **Choix méthodologique** :
-  - exclusion des villes avec très peu d’annonces  
-  - objectif : garantir la **fiabilité statistique** et la comparabilité  
+- Comparative overview of major Moroccan cities  
+- Higher average rents in cities that are:
+  - coastal  
+  - administrative centers  
+  - major tourist hubs  
+- **Methodological choice**:
+  - cities with very few rental listings were excluded  
+  - objective: ensure **statistical reliability and comparability**
 
 ---
 
@@ -96,11 +101,11 @@ Let’s dive into the visualizations and explore the main insights.
   <img src="src/Rental%20Price%20Distribution%20Morocco.jpg" width="700">
 </p>
 
-- Marché dominé par des **loyers intermédiaires**  
-- Présence limitée d’un segment **haut de gamme**  
-- Distribution asymétrique (queue à droite), justifiant :
-  - l’usage de la **médiane** plutôt que la moyenne  
-  - une meilleure robustesse face aux valeurs extrêmes  
+- Rental market dominated by **mid-range prices**  
+- Limited presence of a **high-end segment**  
+- Asymmetric distribution:
+  - justifies the use of the **median instead of the mean**  
+  - reduces sensitivity to extreme values  
 
 ---
 
@@ -110,11 +115,11 @@ Let’s dive into the visualizations and explore the main insights.
   <img src="src/Rental%20Listings%20Concentration%20by%20Region.jpg" width="700">
 </p>
 
-- Identification des régions à **forte densité d’annonces locatives**  
-- Corrélation marquée avec :
-  - l’attractivité économique  
-  - le dynamisme touristique  
-- Indicateur clé : **intensité du marché locatif**
+- Identification of regions with **high listing density**  
+- Strong correlation with:
+  - economic attractiveness  
+  - tourism intensity  
+- Key indicator: **rental market activity**
 
 ---
 
@@ -124,11 +129,11 @@ Let’s dive into the visualizations and explore the main insights.
   <img src="src/Rental%20Price%20Variability%20by%20Region.jpg" width="700">
 </p>
 
-- Analyse de la **dispersion des loyers** par région  
-- Forte variabilité observée dans :
-  - les régions touristiques  
-  - les marchés mixtes (résidentiel + touristique)  
-- Indicateur clé : **instabilité et volatilité des prix**
+- Analysis of **price dispersion** across regions  
+- High variability observed in:
+  - tourist regions  
+  - mixed residential–tourism markets  
+- Key indicator: **market instability**
 
 ---
 
@@ -138,11 +143,11 @@ Let’s dive into the visualizations and explore the main insights.
   <img src="src/Marrakech%20Median%20Rent%20Spatial%20Distribution.jpg" width="700">
 </p>
 
-- Forte **hétérogénéité intra-urbaine** des loyers  
-- Loyers plus élevés dans :
-  - les zones centrales  
-  - les quartiers à vocation touristique  
-- Mise en évidence d’une **segmentation spatiale claire** du marché urbain  
+- Strong **intra-urban heterogeneity**  
+- Higher rents concentrated in:
+  - central areas  
+  - tourist-oriented districts  
+- Clear **spatial segmentation** of the urban rental market  
 
 ---
 
@@ -152,14 +157,18 @@ Let’s dive into the visualizations and explore the main insights.
   <img src="src/Average%20Rent%20by%20District%20Marrakech.jpg" width="700">
 </p>
 
-- Hiérarchisation des quartiers selon le prix moyen de location  
-- Facteurs explicatifs principaux :
-  - localisation  
-  - accessibilité  
-  - standing urbain  
-- **Choix méthodologique** :
-  - exclusion des quartiers avec un nombre très faible d’annonces  
-  - objectif : résultats **représentatifs et robustes**
+- Hierarchical ranking of districts by average rent  
+- Main explanatory factors:
+  - location  
+  - accessibility  
+  - neighborhood standing  
+- **Methodological choice**:
+  - districts with very few listings were excluded  
+  - objective: ensure **representative and robust results**
+
+---
+
+## II. Multi-Criteria Decision-Making Analysis (TOPSIS)
 
 ---
 
@@ -169,19 +178,17 @@ Let’s dive into the visualizations and explore the main insights.
   <img src="src/TOPSIS%20Tourism%20City%20Ranking%20Morocco.jpg" width="700">
 </p>
 
-- Approche **multicritère** intégrant :
-  - prix de location  
-  - nuitées touristiques  
-  - taux d’occupation  
-- Méthode appliquée : **TOPSIS**
-  - comparaison à une solution idéale et anti-idéale  
-- Résultats :
-  - identification des villes offrant le **meilleur compromis**  
-- Validation :
-  - tests de sensibilité sur les pondérations  
-  - classement stable → **robustesse confirmée**
-
-
+- **Decision-support analysis** based on multiple criteria:
+  - median rental prices  
+  - tourist overnight stays  
+  - occupancy rates  
+- Applied method: **TOPSIS**
+  - evaluation relative to an **ideal** and an **anti-ideal** solution  
+- Results:
+  - identification of cities offering the **best overall compromise**  
+- Validation:
+  - sensitivity analysis on criterion weights  
+  - stable ranking → **robust and reliable decision outcomes**
 
 
 

@@ -54,12 +54,22 @@ Furthermore, during the application of the TOPSIS multi-criteria decision-making
 Let’s dive into the visualizations and explore the main insights.
 
 
+## Results Overview
+
+### 1. Regional Analysis of Median Rents
+
 
 
 <p align="center">
   <img src="src/Median%20Rent%20Map%20by%20Region%20Morocco.jpg" width="700">
 </p>
+- Highlighting **regional disparities** in rental prices  
+- Higher rents observed in regions that are:
+  - highly urbanized
+  - economically dynamic  
+- Key indicator: **rental demand pressure**
 
+---
 <p align="center">
   <img src="src/City%20Ranking%20by%20Average%20Rent%20Morocco.jpg" width="700">
 </p>

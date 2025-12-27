@@ -2,7 +2,8 @@
 
 ## Context
 
-> Written and edited by: **Salah Eddine YOUSFI** — 27/12/2025
+![Author](https://img.shields.io/badge/Written%20and%20edited%20by-Salah%20Eddine%20YOUSFI%20—%2027%2F12%2F2025-lightgrey)
+
 
 
 

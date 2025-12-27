@@ -188,9 +188,26 @@ Let’s dive into the visualizations and explore the main insights.
 
 ---
 
+## Conclusions
+
+- This study provides an overall view of the **Moroccan rental market**, through regional, city-level, and local analyses.
+- The visualizations highlight **significant spatial disparities**, a concentration of rental supply in certain regions, and **high price variability**, particularly in tourist areas.
+- The use of robust statistics, such as the **median**, helps reduce the influence of extreme values and improves the reliability of the analysis.
+- The integration of tourism-related indicators allows the study to go beyond a purely descriptive analysis and move toward a **decision-support approach**.
+- The application of the **TOPSIS** method results in an objective ranking of tourist cities, validated through sensitivity tests on criteria weights.
+
+---
+
+### Limitations and Critical Remarks
+
+- The rental data are based on online listings and may not fully represent the entire rental market.
+- Some cities and districts were excluded due to an **insufficient number of listings**, in order to ensure representative results.
+- The tourism data used cover the period from January to August 2024, due to the lack of official data for 2025.
+- Access to more complete and regularly updated data would further improve this type of analysis in the future.
 
 
 
+---
 
 
 Please feel free to reach out to me through my LinkedIn Profile if you have any further questions or would like to discuss this study in more detail.

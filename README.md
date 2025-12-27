@@ -51,6 +51,7 @@ Despite this limitation, the data remain representative. Tourism activity betwee
 Furthermore, during the application of the TOPSIS multi-criteria decision-making method, several sensitivity analyses were conducted by modifying the weights assigned to each criterion. In all tested scenarios, the final ranking order remained unchanged, which confirms the robustness of the results and the reliability of the underlying data ✅.
 
 
+Let’s dive into the visualizations and explore the main insights.
 
 
 

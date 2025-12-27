@@ -9,6 +9,7 @@
 Do not hesitate to contact me through my LinkedIn profile  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salah-eddine-yousfi-b2532a375/)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/salah-eddine-yousfi-b2532a375/)
 
 
 

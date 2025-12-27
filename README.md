@@ -188,7 +188,7 @@ Let’s dive into the visualizations and explore the main insights.
 
 ---
 
-## Conclusions
+# Conclusions
 
 - This study provides an overall view of the **Moroccan rental market**, through regional, city-level, and local analyses.
 - The visualizations highlight **significant spatial disparities**, a concentration of rental supply in certain regions, and **high price variability**, particularly in tourist areas.
@@ -198,7 +198,7 @@ Let’s dive into the visualizations and explore the main insights.
 
 ---
 
-### Limitations and Critical Remarks
+#### Limitations and Critical Remarks
 
 - The rental data are based on online listings and may not fully represent the entire rental market.
 - Some cities and districts were excluded due to an **insufficient number of listings**, in order to ensure representative results.

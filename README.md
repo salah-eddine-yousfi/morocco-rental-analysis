@@ -1,3 +1,5 @@
+# Morocco Rental Market Analysis | November 2025
+
 ## Context
 
 **Date:** 27 December 2025

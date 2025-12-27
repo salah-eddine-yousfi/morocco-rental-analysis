@@ -2,7 +2,7 @@
 
 ## Context
 
-Written and edited by: Skander Boudawara - 27/12/2025
+Written and edited by: Salah Eddine YOUSFI - 27/12/2025
 
 This project focuses on the rental housing market in Morocco through the analysis of recent data, with the objective of comparing rental prices and market supply across cities and regions. The dataset corresponds to rental listings published in November 2025.
 

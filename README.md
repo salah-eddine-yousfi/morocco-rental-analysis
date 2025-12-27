@@ -62,8 +62,6 @@ Let’s dive into the visualizations and explore the main insights.
 ## I. Exploratory Analysis and Data Visualization  
 
 
----
-
 ### 1. Regional Analysis of Median Rental Prices
 
 <p align="center">
@@ -169,8 +167,6 @@ Let’s dive into the visualizations and explore the main insights.
 ---
 
 ## II. Multi-Criteria Decision-Making Analysis (TOPSIS)
-
----
 
 ### 8. Tourist City Ranking Using the TOPSIS Method
 
